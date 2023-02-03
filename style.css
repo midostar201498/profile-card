@@ -1,6 +1,6 @@
 @font-face {
     font-family:KumbhSans ;
-    src: url(/fonts/KumbhSans-VariableFont_wght.ttf);
+    src: url(./fonts/KumbhSans-VariableFont_wght.ttf);
 }
 :root{
     margin: 0%;padding: 0%;overflow-x: hidden;
@@ -27,11 +27,11 @@ body{
     border-radius: 20px;
 }
 #background{position: relative;
+    width: 514px;height: 195px;
     background-image: url(./images/bg-pattern-card.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;
-    width: 514px;height: 195px;
 }
 
 
